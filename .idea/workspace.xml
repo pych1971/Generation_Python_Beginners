@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de85512e-78c1-40a8-baa0-ee5568559468" name="Changes" comment="2024-09-16-15-38">
-      <change afterPath="$PROJECT_DIR$/02/04/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/04/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/04/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/04/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/04/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/04/06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/04/07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/04/08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/04/09.py" afterDir="false" />
+    <list default="true" id="de85512e-78c1-40a8-baa0-ee5568559468" name="Changes" comment="2024-09-17-17-04">
+      <change afterPath="$PROJECT_DIR$/02/05/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/05/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/05/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/05/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/05/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/05/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/05/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/05/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/05/09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     &quot;Python.06.executor&quot;: &quot;Run&quot;,
     &quot;Python.07.executor&quot;: &quot;Run&quot;,
     &quot;Python.08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
@@ -109,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726483130860</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2024-09-17-17-04">
+      <option name="closed" value="true" />
+      <created>1726574693895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726574693895</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,6 +128,7 @@
     <MESSAGE value="2024-09-16-14-37" />
     <MESSAGE value="2024-09-16-15-14" />
     <MESSAGE value="2024-09-16-15-38" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-09-16-15-38" />
+    <MESSAGE value="2024-09-17-17-04" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-09-17-17-04" />
   </component>
 </project>
