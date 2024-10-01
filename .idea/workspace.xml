@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de85512e-78c1-40a8-baa0-ee5568559468" name="Changes" comment="2024-09-29-13-47">
-      <change afterPath="$PROJECT_DIR$/09/08/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/08/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/08/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/08/06.py" afterDir="false" />
+    <list default="true" id="de85512e-78c1-40a8-baa0-ee5568559468" name="Changes" comment="2024-09-30-17-04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/08/06.py" beforeDir="false" afterPath="$PROJECT_DIR$/09/08/06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
     "Python.03.executor": "Run",
     "Python.04.executor": "Run",
     "Python.05.executor": "Run",
-    "Python.06.executor": "Debug",
+    "Python.06.executor": "Run",
     "Python.07.executor": "Run",
     "Python.08.executor": "Run",
     "Python.09.executor": "Run",
@@ -385,14 +382,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727599646518</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="2024-09-30-17-04">
+      <option name="closed" value="true" />
+      <created>1727697899215</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1727697899216</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="2024-09-19-10-19" />
     <MESSAGE value="2024-09-19-11-24" />
     <MESSAGE value="2024-09-19-11-51" />
     <MESSAGE value="2024-09-19-16-01" />
@@ -417,6 +421,7 @@
     <MESSAGE value="2024-09-28-15-11" />
     <MESSAGE value="2024-09-29-12-31" />
     <MESSAGE value="2024-09-29-13-47" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-09-29-13-47" />
+    <MESSAGE value="2024-09-30-17-04" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-09-30-17-04" />
   </component>
 </project>
