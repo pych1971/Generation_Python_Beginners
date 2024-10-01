@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de85512e-78c1-40a8-baa0-ee5568559468" name="Changes" comment="2024-10-01-10-45">
-      <change afterPath="$PROJECT_DIR$/11/03/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/03/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/03/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/03/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/03/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/03/06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/03/07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/03/08.py" afterDir="false" />
+    <list default="true" id="de85512e-78c1-40a8-baa0-ee5568559468" name="Changes" comment="2024-10-01-11-31">
+      <change afterPath="$PROJECT_DIR$/11/04/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/04/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/04/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/04/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/04/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/04/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/04/07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -429,14 +428,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727761527191</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="2024-10-01-11-31">
+      <option name="closed" value="true" />
+      <created>1727764314659</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1727764314659</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="2024-09-20-16-10" />
     <MESSAGE value="2024-09-21-12-51" />
     <MESSAGE value="2024-09-21-13-24" />
     <MESSAGE value="2024-09-22-13-40" />
@@ -461,6 +467,7 @@
     <MESSAGE value="2024-10-01-10-15" />
     <MESSAGE value="2024-10-01-10-26" />
     <MESSAGE value="2024-10-01-10-45" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-10-01-10-45" />
+    <MESSAGE value="2024-10-01-11-31" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-10-01-11-31" />
   </component>
 </project>
